@@ -1,0 +1,9 @@
+html{
+    margin-top: 70px;
+}
+#ikona{
+    font-size: 2em;
+}
+#delete{
+    display: inline;
+}
